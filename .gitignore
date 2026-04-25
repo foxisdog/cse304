@@ -1,0 +1,7 @@
+.venv/
+.uv-cache/
+.codex
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+outputs/
